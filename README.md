@@ -8,7 +8,7 @@
 ###run
 ```bash
     npm install
-    node index
+    node app
 ```
 
 ###test
